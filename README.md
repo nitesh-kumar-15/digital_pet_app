@@ -37,5 +37,5 @@ The pet has changing **happiness**, **hunger**, and **energy** levels, which rea
 Include a screenshot of your commit history here for the assignment.  
 Example (replace with your actual image or link):
 
-`![Git commit history](path/to/your_git_commits_screenshot.png)`
+![Git commit history](screenshots/git_commits.png)
 
